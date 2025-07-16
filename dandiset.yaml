@@ -27,9 +27,11 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-06-27T16:04:47.909136+00:00'
-description: This experiment focused on visualizing and characterizing the recovery
-  dynamics of the plasma membrane in CHO cells after electroporation induced by a
-  single 1 μs electric pulse.
+description: 'This experiment focused on visualizing and characterizing the recovery
+  dynamics of the plasma membrane in CHO cells following electroporation induced by
+  a 1-µs electric pulse. Each cell underwent a sequence of 60 exposures: 20 sham exposures
+  with no pulse applied and 40 exposures with one or two 1-µs pulses of varying amplitudes
+  and interval between pulses.'
 ethicsApproval: []
 id: DANDI:001516/draft
 identifier: DANDI:001516
